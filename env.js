@@ -2,7 +2,7 @@ window.v2board = {
   // 站点标题
   title: 'V2Board',
   // API
-  host: 'http://157.245.171.187:16421',
+  host: 'https://idc.abcloud.icu',
   // 主题
   theme: '1',
   // 背景
